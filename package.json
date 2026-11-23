@@ -38,5 +38,22 @@
     "tsx": "^4.23.15",
     "typescript": "^5"
   },
-  "packageManager": "pnpm@12.21.0"
+  "packageManager": "pnpm@12.21.0",
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "@libsql/client",
+      "bcryptjs",
+      "chart.js",
+      "drizzle-orm",
+      "lucide-react",
+      "zod",
+      "@tailwindcss/turbopack",
+      "dotenv",
+      "drizzle-kit",
+      "eslint-config-next",
+      "tailwindcss",
+      "typescript"
+    ]
+  }
 }
