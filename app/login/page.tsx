@@ -125,6 +125,7 @@ export default function LoginPage() {
               >
                 Demo Vendedor
               </button>
+          <p className="mt-3 text-center text-xs text-slate-500">Grupo 27 — Chocobar Agustina, Araoz Marianela y Mendez Carlos</p>
             </div>
           </div>
 
